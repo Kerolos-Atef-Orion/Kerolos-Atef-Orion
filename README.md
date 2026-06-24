@@ -60,6 +60,16 @@
 
 <br>
 
+## Listening To
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wsfwu64443vefcq46amorzsiw&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=1db954&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wsfwu64443vefcq46amorzsiw&redirect=true)
+
+</div>
+
+<br>
+
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
