@@ -1,5 +1,5 @@
 <!-- ============================================================= -->
-<!--  HOW TO USE:  Find & replace  YOUR_USERNAME  with your GitHub  -->
+<!--  HOW TO USE:  Find & replace  Kerolos-Atef-Orion  with your GitHub  -->
 <!--  handle (it appears many times). Then edit the bits marked     -->
 <!--  with  👇 EDIT  comments. Setup steps are at the bottom.        -->
 <!-- ============================================================= -->
@@ -16,7 +16,7 @@
 <!-- 👇 EDIT the lines= list (separate phrases with ; and spaces with +) -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+learning+something+new+%F0%9F%93%9A;Coffee+%E2%86%92+Code+%E2%86%92+Repeat+%E2%98%95)](https://github.com/YOUR_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+learning+something+new+%F0%9F%93%9A;Coffee+%E2%86%92+Code+%E2%86%92+Repeat+%E2%98%95)](https://github.com/Kerolos-Atef-Orion)
 
 </div>
 
@@ -24,7 +24,7 @@
 <div align="center">
 
 ![profile views](https://komarev.com/ghpvc/?username=Kerolos-Atef-Orion&label=Profile%20Views&color=58A6FF&style=flat)
-[![followers](https://img.shields.io/github/followers/Kerolos-Atef-Orion?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
+[![followers](https://img.shields.io/github/followers/Kerolos-Atef-Orion?label=Follow&style=social)](https://github.com/Kerolos-Atef-Orion)
 
 </div>
 
@@ -74,14 +74,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kerolos-Atef-Orion&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerolos-Atef-Orion&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kerolos-Atef-Orion&theme=tokyonight&hide_border=true)](https://github.com/Kerolos-Atef-Orion)
 
 </div>
 
@@ -92,7 +92,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kerolos-Atef-Orion&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -103,7 +103,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kerolos-Atef-Orion&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Kerolos-Atef-Orion)
 
 </div>
 
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg)
+![snake animation](https://raw.githubusercontent.com/Kerolos-Atef-Orion/Kerolos-Atef-Orion/output/snake.svg)
 
 </div>
 
@@ -127,6 +127,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) with love
+⭐️ From [Kerolos-Atef-Orion](https://github.com/Kerolos-Atef-Orion) with love
 
 </div>
