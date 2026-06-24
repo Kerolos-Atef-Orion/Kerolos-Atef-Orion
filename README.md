@@ -23,8 +23,8 @@
 <!-- ===================== PROFILE VIEWS + FOLLOW ===================== -->
 <div align="center">
 
-![profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=flat)
-[![followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
+![profile views](https://komarev.com/ghpvc/?username=Kerolos-Atef-Orion&label=Profile%20Views&color=58A6FF&style=flat)
+[![followers](https://img.shields.io/github/followers/Kerolos-Atef-Orion?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
 
 </div>
 
