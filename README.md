@@ -8,7 +8,7 @@
 <!-- 👇 EDIT the text= and desc= below (use %20 for spaces) -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Kerolos+Atef&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Kerolos+Atef&animation=twinkling&fontSize=90&fontColor=dbdbdb)
 
 
 
